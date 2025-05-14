@@ -1,0 +1,8 @@
+build
+output
+preview
+*.pyc
+*.zip
+*.DS_Store
+input/
+title/

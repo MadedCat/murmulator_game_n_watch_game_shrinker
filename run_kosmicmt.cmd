@@ -1,0 +1,1 @@
+python shrink_it.py input/rom/kosmicmt.zip

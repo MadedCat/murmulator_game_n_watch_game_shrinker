@@ -1,0 +1,1 @@
+python shrink_it.py input/rom/gnw_mmouse.zip
